@@ -26,3 +26,12 @@ From Wikipedia, the free encyclopedia
 Has great flow diagram of autoconf and automake
 https://en.wikipedia.org/wiki/GNU_Build_System
 
+Why another guide about autotools?
+Autotools Mythbuster
+"When I started writing this guide, there weren't many
+updated guides on autotools in general; the autoconf
+and automake manuals often referred to corner-cases
+rather than general ones, and made it difficult to
+understand how to write a proper configure.ac or
+Makefile.am."
+https://autotools.io/preface.html#idm45453221366848
