@@ -5,5 +5,19 @@ Copyright (C) 2017 by Raymond E. Marcil <marcilr@gmail.com>
 
 Autotools
 
+
 The GNU Build System, including autoconf, automake, and libtool.
+
+
+The GNU Build System, also known as the Autotools, is a suite of
+programming tools designed to assist in making source code
+packages portable to many Unix-like systems.
+--wikipedia
+
+
+Links
+=====
+GNU Build System
+From Wikipedia, the free encyclopedia
+https://en.wikipedia.org/wiki/GNU_Build_System
 
