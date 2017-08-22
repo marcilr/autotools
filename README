@@ -9,5 +9,9 @@ autotools.txt
   Autotools
   The GNU Build System, including autoconf, automake, and libtool.
 
+libtool/
+  GNU Libtool - The GNU Portable Library Tool
+  https://www.gnu.org/software/libtool/
+
 links.txt
   Autotools related links
