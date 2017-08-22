@@ -8,6 +8,14 @@ Autotools related links
 
 Links
 =====
+Autotools FAQ
+https://www.gnu.org/software/automake/faq/autotools-faq.html
+
+Autotools Mythbuster
+Diego Elio “Flameeyes” Pettenò
+Author and Publisher <flameeyes@flameeyes.eu>
+https://autotools.io/index.html
+
 GNU Build System
 From Wikipedia, the free encyclopedia
 Has great flow diagram of autoconf and automake
