@@ -10,3 +10,10 @@ Links
 =====
 GNU Libtool - The GNU Portable Library Tool
 https://www.gnu.org/software/libtool/
+
+How to include needed C library using gcc?
+Has:
+  -I <searchpath to include files>
+  -L <searchpath to the lib file>
+  -l<thelibname>
+https://stackoverflow.com/questions/6016815/how-to-include-needed-c-library-using-gcc
