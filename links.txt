@@ -1,0 +1,14 @@
+links.txt
+Created Tue Aug 22 09:20:20 AKDT 2017
+Copyright (C) 2017 by Raymond E. Marcil <marcilr@gmail.com>
+
+
+Autotools related links
+
+
+Links
+=====
+GNU Build System
+From Wikipedia, the free encyclopedia
+https://en.wikipedia.org/wiki/GNU_Build_System
+
