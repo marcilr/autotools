@@ -10,5 +10,6 @@ Links
 =====
 GNU Build System
 From Wikipedia, the free encyclopedia
+Has great flow diagram of autoconf and automake
 https://en.wikipedia.org/wiki/GNU_Build_System
 
