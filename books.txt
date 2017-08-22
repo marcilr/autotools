@@ -1,0 +1,48 @@
+books.txt
+Created Tue Aug 22 09:27:04 AKDT 2017
+Copyright (C) 2017 by Raymond E. Marcil <marcilr@gmail.com>
+
+
+Links
+=====
+Appendix C. Further Readings
+Autotools Mythbuster
+Has nice list of books that I list below.
+https://autotools.io/furtherreadings.html#bib.book.calcote
+
+[AutoconfManual] GNU autoconf manual
+http://www.gnu.org/software/autoconf/manual/html_node/index.html
+
+[AutomakeManual] GNU automake manual
+http://www.gnu.org/software/automake/manual/html_node/index.html
+
+[LibtoolManual] GNU libtool manual
+http://www.gnu.org/software/libtool/manual/html_node/index.html
+
+[CalcoteAutotools] Autotools. A Practical Guide To GNU Autoconf,
+Automake, And Libtool. John Calcote. No Starch Press. July 2010.
+Looks good with:
+o Master the Autotools build system to maximize your software's portability
+o Generate Autoconf configuration scripts to simplify the compilation process
+o Produce portable makefiles with Automake
+o Build cross-platform software libraries with Libtool
+o Write your own Autoconf macros
+price: Ebook (PDF, Mobi, and ePub), $35.95
+https://www.nostarch.com/autotools.htm
+
+[AutotoolsBestPractices] Best Practices With Autotools
+Diego E. "Flameeyes" Pettenò. August 2005.
+http://www.linux.com/archive/articles/114061
+
+[GentooAutomagic] Automagic dependencies, what they are and
+how to fix them
+Diego E. "Flameeyes" Pettenò. et al. .
+http://www.gentoo.org/proj/en/qa/automagic.xml
+
+[GentooAsNeeded] --as-needed introduction and fixing guide
+Diego E. "Flameeyes" Pettenò. et al. .
+http://www.gentoo.org/proj/en/qa/asneeded.xml
+
+[MillerRecursiveMake] Recursive Make Considered Harmful
+Peter Miller. 1997.
+http://miller.emu.id.au/pmiller/books/rmch/
