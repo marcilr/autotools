@@ -17,3 +17,21 @@ Has:
   -L <searchpath to the lib file>
   -l<thelibname>
 https://stackoverflow.com/questions/6016815/how-to-include-needed-c-library-using-gcc
+
+Re: Help with -D flag in make file
+A bit of CFLAGS syntax:
+  CC      = gcc
+  CFLAGS  = -Wall -W -pedantic
+
+  FLAG    = -DDEBUG_FLAG
+  CFLAGS += $(FLAG)
+
+  TARGET = testflag
+
+  $(TARGET): $(TARGET).c
+  	@echo "In Makefile: FLAG = <$(FLAG)>"
+	$(CC) $(CFLAGS) $< -o $@
+
+  clean:
+	rm -f $(TARGET)
+https://www.gidforums.com/t-18729.html
