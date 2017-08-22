@@ -1,0 +1,13 @@
+README
+Created Tue Aug 22 09:19:22 AKDT 2017
+Copyright (C) 2017 by Raymond E. Marcil <marcilr@gmail.com>
+
+
+Filelist
+========
+autotools.txt
+  Autotools
+  The GNU Build System, including autoconf, automake, and libtool.
+
+links.txt
+  Autotools related links
