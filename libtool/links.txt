@@ -1,0 +1,12 @@
+links.txt
+Created Tue Aug 22 09:43:54 AKDT 2017
+Copyright (C) 2017 by Raymond E. Marcil <marcilr@gmail.com>
+
+
+libtool related links
+
+
+Links
+=====
+GNU Libtool - The GNU Portable Library Tool
+https://www.gnu.org/software/libtool/
