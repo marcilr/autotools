@@ -15,9 +15,69 @@ packages portable to many Unix-like systems.
 --wikipedia
 
 
+The GNU manuals are relatively up-to-date and they are reasonably good
+reference materials.  Each documents separate pieces of the autotools:
+autoconf[1], automake[2], and libtool[3].  However, they don’t make good
+tutorials by themselves.  In particular, each manual focuses primarily on
+just that one tool instead of describing how to use the tools together.
+They’ve improved that some over the years, in particular, the autoconf manual
+does try to give the bigger picture, but I think they’re still not the best
+place to start to learn how to use them.
+
+Do not start with the book or website “GNU Autoconf, Automake and Libtool”
+by Gary Vaughan et al., published originally by New Rider in 2000.[4] This
+book, often called the “Goat book”, was a really good and useful book in
+2000. There’s an online version that has had some tweaks through 2006.
+However, the autotools has changed substantially since then; this material is
+interesting historically, and might be useful to you once you more thoroughly
+understand autotools, but it is a terrible place to start learning today.
+For example, they spend a lot of time on how to invoke each tool in turn
+(instead of just using today’s “autoreconf” which does all that).
+Start with other material first.
+
+The blog post Autoconf and Automake Tutorial[5] tries to be a simple
+tutorial, but it doesn’t emphasize the “right way” to do things. For
+example, instead of using autoreconf, it goes through a long dance of
+the various specific tools.  It also does echo...exit instead of the
+simpler AC_MSG_ERROR. On the other hand, it emphasizes AC_CHECK_LIB,
+which is useful but I omitted in my tutorial (I emphasized pkg-config,
+which is easier to use but not all libraries support it).
+
+When you are first learning how to use the autotools, avoid anything
+written about the autotools before around 2006.  Things are just too
+different today, and you will waste a lot of time.  You can tell that
+autotools information is obsolete if it talks about creating
+"configure.in" (the modern conventional name is “configure.ac”),
+fails to emphasize using autoreconf and “autoreconf -i” (and instead
+talks a lot about invoking by hand various tools, such as aclocal or
+autoheader), or fails to talk about creating an "m4" subdirectory
+(and instead talks about creating an aclocal.m4 file).
+--www.dwheeler.com/autotools/
+
+
 Links
 =====
+[1] autoconf
+    http://www.gnu.org/software/autoconf/
+
+[2] automake
+    http://www.gnu.org/software/automake/
+
+[3] libtool
+    http://www.gnu.org/software/libtool/
+
+[4] "GNU Autoconf, Automake and Libtool"
+    by Gary Vaughan et al.,
+    published originally by New Rider in 2000.
+    http://sourceware.org/autobook/
+
+[5] Autoconf and Automake Tutorial
+    http://amjith.blogspot.com/2009/04/autoconf-and-automake-tutorial.html
+
 GNU Build System
 From Wikipedia, the free encyclopedia
 https://en.wikipedia.org/wiki/GNU_Build_System
 
+Introduction to the Autotools (autoconf, automake, and libtool)
+Pretty useful information here.
+https://www.dwheeler.com/autotools/
