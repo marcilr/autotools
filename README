@@ -5,6 +5,14 @@ Copyright (C) 2017 by Raymond E. Marcil <marcilr@gmail.com>
 
 Filelist
 ========
+autoconf/
+  Autoconf is a tool for producing shell scripts that automatically
+  configure software source code packages to adapt to many kinds of
+  Posix-like systems.  The configuration scripts produced by Autoconf
+  are independent of Autoconf when they are run, so their users do
+  not need to have Autoconf.
+  --https://www.gnu.org/savannah-checkouts/gnu/autoconf/manual/autoconf-2.69/html_node/Introduction.html#Introduction
+
 autotools.txt
   Autotools
   The GNU Build System, including autoconf, automake, and libtool.
