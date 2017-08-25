@@ -8,47 +8,39 @@ Books for Autotools
 
 Links
 =====
-Appendix C. Further Readings
-Autotools Mythbuster
-Has nice list of books that I list below.
-https://autotools.io/furtherreadings.html#bib.book.calcote
-
-[AutoconfManual] GNU autoconf manual
-http://www.gnu.org/software/autoconf/manual/html_node/index.html
-
-[AutomakeManual] GNU automake manual
-http://www.gnu.org/software/automake/manual/html_node/index.html
-
-[LibtoolManual] GNU libtool manual
-http://www.gnu.org/software/libtool/manual/html_node/index.html
-
-[CalcoteAutotools] Autotools. A Practical Guide To GNU Autoconf,
-Automake, And Libtool. John Calcote. No Starch Press. July 2010.
+A Practitioner's Guide to GNU Autoconf, Automake, and Libtool
+by John Calcote. No Starch Press. July 2010.
 Looks good with:
 o Master the Autotools build system to maximize your software's portability
 o Generate Autoconf configuration scripts to simplify the compilation process
 o Produce portable makefiles with Automake
 o Build cross-platform software libraries with Libtool
 o Write your own Autoconf macros
-price: Ebook (PDF, Mobi, and ePub), $35.95
+publisher: No Starch Press
+published: July 2010
+pages:   360
+ISBN-13: 978-1-59327-206-7
+price:   Print Book and FREE Ebook, $44.95
+         Ebook (PDF, Mobi, and ePub), $35.95
+http://shop.oreilly.com/product/9781593272067.do
 https://www.nostarch.com/autotools.htm
 
-[AutotoolsBestPractices] Best Practices With Autotools
-Diego E. "Flameeyes" Pettenò. August 2005.
-http://www.linux.com/archive/articles/114061
-
-[GentooAutomagic] Automagic dependencies, what they are and
-how to fix them
-Diego E. "Flameeyes" Pettenò. et al. .
-http://www.gentoo.org/proj/en/qa/automagic.xml
-
-[GentooAsNeeded] --as-needed introduction and fixing guide
+--as-needed introduction and fixing guide
 Diego E. "Flameeyes" Pettenò. et al. .
 http://www.gentoo.org/proj/en/qa/asneeded.xml
 
-[MillerRecursiveMake] Recursive Make Considered Harmful
-Peter Miller. 1997.
-http://miller.emu.id.au/pmiller/books/rmch/
+Automagic dependencies, what they are and how to fix them
+Diego E. "Flameeyes" Pettenò. et al. .
+http://www.gentoo.org/proj/en/qa/automagic.xml
+
+Autotools Mythbuster
+Appendix C. Further Readings
+Has nice list of books that I list below.
+https://autotools.io/furtherreadings.html#bib.book.calcote
+
+Best Practices With Autotools
+Diego E. "Flameeyes" Pettenò. August 2005.
+http://www.linux.com/archive/articles/114061
 
 GNU Autoconf, Automake and Libtool
 by G. V. Vaughan, B. Elliston, T. Tromey, and I. L. Taylor.
@@ -60,3 +52,16 @@ Sams Publishing (a subsidiary of Pearson Education).
 browsable online version:
   http://www.sourceware.org/autobook/autobook/autobook_toc.html
 http://www.sourceware.org/autobook/
+
+GNU autoconf manual
+http://www.gnu.org/software/autoconf/manual/html_node/index.html
+
+GNU libtool manual
+http://www.gnu.org/software/libtool/manual/html_node/index.html
+
+GNU automake manual
+http://www.gnu.org/software/automake/manual/html_node/index.html
+
+Recursive Make Considered Harmful
+Peter Miller. 1997.
+http://miller.emu.id.au/pmiller/books/rmch/
