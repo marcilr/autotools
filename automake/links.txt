@@ -12,5 +12,8 @@ Links
 [AutomakeManual] GNU automake manual
 http://www.gnu.org/software/automake/manual/html_node/index.html
 
+GNU Automake
+https://www.gnu.org/savannah-checkouts/gnu/automake/manual/html_node/index.html#Top
+
 Introduction
 https://www.gnu.org/software/automake/manual/html_node/Introduction.html#Introduction
