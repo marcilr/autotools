@@ -36,6 +36,11 @@ Introduction to the Autotools (autoconf, automake, and libtool)
 Pretty useful information here.
 https://www.dwheeler.com/autotools/
 
+Going from a simple Makefile to Autotools
+by Arne Babenhauserheide
+Some good details here
+http://www.draketo.de/light/english/free-software/makefile-to-autotools
+
 Why another guide about autotools?
 Autotools Mythbuster
 "When I started writing this guide, there weren't many
