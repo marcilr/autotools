@@ -4,7 +4,11 @@ Copyright (C) 2017 by Raymond E. Marcil <marcilr@gmail.com>
 
 
 Autotools related links
+  
 
+Noise: This brought book some good results:
+       the goat book tex files
+          http://pages.tacc.utexas.edu/~eijkhout/Articles/TeXLaTeXcourse.pdf
 
 Links
 =====
