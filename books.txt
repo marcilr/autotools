@@ -49,3 +49,14 @@ http://www.gentoo.org/proj/en/qa/asneeded.xml
 [MillerRecursiveMake] Recursive Make Considered Harmful
 Peter Miller. 1997.
 http://miller.emu.id.au/pmiller/books/rmch/
+
+GNU Autoconf, Automake and Libtool
+by G. V. Vaughan, B. Elliston, T. Tromey, and I. L. Taylor.
+SAMS (originally New Riders), 2000, ISBN 1578701902.
+This is the Authors' homepage for The Goat Book by Gary V. Vaughan,
+Ben Elliston, Tom Tromey and Ian Lance Taylor, first published in
+October 2000 by New Riders publishing, now under the auspices of
+Sams Publishing (a subsidiary of Pearson Education).
+browsable online version:
+  http://www.sourceware.org/autobook/autobook/autobook_toc.html
+http://www.sourceware.org/autobook/
