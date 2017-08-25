@@ -1,0 +1,32 @@
+autoconf.txt
+Created Fri Aug 25 10:35:28 AKDT 2017
+Copyright (C) 2017 by Raymond E. Marcil <marcilr@gmail.com>
+
+
+Autoconf is a tool for producing shell scripts that automatically
+configure software source code packages to adapt to many kinds of
+Posix-like systems.  The configuration scripts produced by Autoconf
+are independent of Autoconf when they are run, so their users do
+not need to have Autoconf.
+
+The configuration scripts produced by Autoconf require no manual
+user intervention when run; they do not normally even need an
+argument specifying the system type.  Instead, they individually
+test for the presence of each feature that the software package
+they are for might need.  (Before each check, they print a
+one-line message stating what they are checking for, so the user
+doesn't get too bored while waiting for the script to finish.)
+As a result, they deal well with systems that are hybrids or
+customized from the more common Posix variants. There is no need
+to maintain files that list the features supported by each
+release of each variant of Posix.
+--gnu.org
+
+
+Links
+=====
+[AutoconfManual] GNU autoconf manual
+http://www.gnu.org/software/autoconf/manual/html_node/index.html
+
+Introduction
+https://www.gnu.org/savannah-checkouts/gnu/autoconf/manual/autoconf-2.69/html_node/Introduction.html#Introduction
