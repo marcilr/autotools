@@ -6,6 +6,12 @@ Copyright (C) 2017 by Raymond E. Marcil <marcilr@gmail.com>
 Filelist
 ========
 automake.txt
+  Automake is a tool for automatically generating Makefile.ins from
+  files called Makefile.am.  Each Makefile.am is basically a series
+  of make variable definitions1, with rules being thrown in
+  occasionally.  The generated Makefile.ins are compliant with the
+  GNU Makefile standards.
+  --https://www.gnu.org/software/automake/manual/html_node/Introduction.html#Introduction
 
 links.txt
   Automake related links
