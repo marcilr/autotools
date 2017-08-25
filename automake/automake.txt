@@ -1,0 +1,23 @@
+automake.txt
+Created Fri Aug 25 10:44:04 AKDT 2017
+Copyright (C) 2017 by Raymond E. Marcil <marcilr@gmail.com>
+
+
+Automake
+
+
+Automake is a tool for automatically generating Makefile.ins from
+files called Makefile.am.  Each Makefile.am is basically a series
+of make variable definitions1, with rules being thrown in
+occasionally.  The generated Makefile.ins are compliant with the
+GNU Makefile standards.
+--gnu.org
+
+
+Links
+=====
+[AutomakeManual] GNU automake manual
+http://www.gnu.org/software/automake/manual/html_node/index.html
+
+Introduction
+https://www.gnu.org/software/automake/manual/html_node/Introduction.html#Introduction
