@@ -62,6 +62,10 @@ http://www.gnu.org/software/libtool/manual/html_node/index.html
 GNU automake manual
 http://www.gnu.org/software/automake/manual/html_node/index.html
 
+GNU Build System
+From Wikipedia, the free encyclopedia
+https://en.wikipedia.org/wiki/GNU_Build_System
+
 Recursive Make Considered Harmful
 Peter Miller. 1997.
 http://miller.emu.id.au/pmiller/books/rmch/
