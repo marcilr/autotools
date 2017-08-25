@@ -31,19 +31,26 @@ Very good description of Autotools including
 autoconf, automake, and libtool
 http://www.jezuk.co.uk/blog/2007/04/autoconfiscation-part-two.html
 
+Eric S. Raymond
+https://en.wikipedia.org/wiki/Eric_S._Raymond
+
 GNU Build System
 From Wikipedia, the free encyclopedia
 Has great flow diagram of autoconf and automake
 https://en.wikipedia.org/wiki/GNU_Build_System
 
-Introduction to the Autotools (autoconf, automake, and libtool)
-Pretty useful information here.
-https://www.dwheeler.com/autotools/
-
 Going from a simple Makefile to Autotools
 by Arne Babenhauserheide
 Some good details here
 http://www.draketo.de/light/english/free-software/makefile-to-autotools
+
+Introduction to the Autotools (autoconf, automake, and libtool)
+Pretty useful information here.
+https://www.dwheeler.com/autotools/
+
+The Cathedral and the Bazaar
+Eric S. Raymond's essay
+https://en.wikipedia.org/wiki/The_Cathedral_and_the_Bazaar
 
 Why another guide about autotools?
 Autotools Mythbuster
