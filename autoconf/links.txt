@@ -1,0 +1,15 @@
+links.txt
+Created Fri Aug 25 10:40:01 AKDT 2017
+Copyright (C) 2017 by Raymond E. Marcil <marcilr@gmail.com>
+
+
+Autoconf related links
+
+
+Links
+=====
+[AutoconfManual] GNU autoconf manual
+http://www.gnu.org/software/autoconf/manual/html_node/index.html
+
+Introduction
+https://www.gnu.org/savannah-checkouts/gnu/autoconf/manual/autoconf-2.69/html_node/Introduction.html#Introduction
