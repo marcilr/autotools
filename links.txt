@@ -21,6 +21,12 @@ Autotools Mythbuster
 Good Autotools book listing
 https://autotools.io/furtherreadings.html#bib.book.calcote
 
+Article: Adventures in Autoconfiscation - Part Two
+An Autoconf, Automake, Libtool Fly-past
+Very good description of Autotools including
+autoconf, automake, and libtool
+http://www.jezuk.co.uk/blog/2007/04/autoconfiscation-part-two.html
+
 GNU Build System
 From Wikipedia, the free encyclopedia
 Has great flow diagram of autoconf and automake
