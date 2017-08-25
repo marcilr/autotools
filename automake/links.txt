@@ -6,7 +6,11 @@ Copyright (C) 2017 by Raymond E. Marcil <marcilr@gmail.com>
 Automake related links
 
 
+
 Links
 =====
 [AutomakeManual] GNU automake manual
 http://www.gnu.org/software/automake/manual/html_node/index.html
+
+Introduction
+https://www.gnu.org/software/automake/manual/html_node/Introduction.html#Introduction
